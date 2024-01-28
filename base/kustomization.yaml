@@ -4,4 +4,5 @@ commonLabels:
 resources:
 - deployment.yaml
 - service.yaml
+- virtualservice.yaml
 - configMap.yaml
